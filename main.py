@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Jun  5 23:50:25 2023
-
-@author: Jun Ye
-"""
-
-# In[1]
 import time
 
 # Configurations

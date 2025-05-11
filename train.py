@@ -1,11 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Jun  4 22:48:07 2023
-The functions training the Model
-Based on Pytorch
-@author: Jun Ye
-"""
-
 import time
 import torch.nn.functional as F
 from model_settings import args

@@ -1,13 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Jun  4 22:38:25 2023
-Project: GCN of Voice Depression Classification
-File: utils
-项目： 语音抑郁（GCN）
-文件： 工具函数
-@author: Jun Ye
-"""
-
 import numpy as np
 import scipy.sparse as sp
 import matplotlib.pyplot as plt
